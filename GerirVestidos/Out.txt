@@ -1,0 +1,2 @@
+Largo;6000.0
+cumprido;24000.0

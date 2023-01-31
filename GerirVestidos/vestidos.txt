@@ -1,0 +1,2 @@
+Largo;20;300
+cumprido;40;600
